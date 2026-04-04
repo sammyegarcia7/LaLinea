@@ -31,6 +31,22 @@ When you create an account we may collect:
 
 ---
 
+### 📸 Camera and Photos
+We may request access to your device camera and photos to allow you to upload images within the app.
+
+- Images are only accessed when you choose to upload them
+- We do not access your camera or photos without your interaction
+- Uploaded images may be used in community posts or reports
+
+---
+
+### 🖼️ Media Access
+The app may access your device’s photo library only when you choose to upload content.
+
+- We do not scan or access your media without your action
+
+---
+
 ### Profile Photos
 
 Users may upload a profile picture. Profile images are stored securely using Firebase Storage.
