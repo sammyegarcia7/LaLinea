@@ -1,6 +1,6 @@
 # Privacy Policy for La Línea
 
-Last updated: [03/15/2026]
+Last updated: [06/15/2026]
 
 ## Introduction
 
@@ -69,46 +69,68 @@ This content may be visible to other users of the app.
 We may collect limited technical information such as:
 
 - Device type
+- Operating system version
 - App version
 - Crash logs
+- Diagnostic information
 
-This information helps us improve stability and performance.
-
----
-
-## How We Use Information
-
-We use collected information to:
-
-- Calculate border wait times
-- Provide community discussion features
-- Improve app performance
-- Prevent abuse of the system
+This information helps us improve app stability, performance, and reliability.
 
 ---
 
-## Data Storage
+### Advertising and Analytics
 
-La Línea uses Google Firebase services for backend infrastructure including:
+La Línea may display advertisements provided by Google AdMob and other advertising partners.
+
+Advertising partners may automatically collect certain information, including:
+
+- Advertising identifiers (such as Android Advertising ID)
+- Device information
+- App interaction data
+- General location information derived from IP address
+
+This information may be used to:
+
+- Display advertisements
+- Measure ad performance
+- Prevent fraud and invalid activity
+- Improve advertising services
+
+Users may reset or limit the use of advertising identifiers through their device settings.
+
+La Línea also uses analytics services, including Google Analytics for Firebase, to understand how users interact with the app, improve features, monitor performance, and measure usage trends.
+
+For more information about how Google collects and processes data, please visit:
+
+https://policies.google.com/privacy
+
+---
+
+### Data Storage
+
+La Línea uses Google Firebase services for backend infrastructure, including:
 
 - Firebase Firestore (database)
 - Firebase Authentication
-- Firebase Storage (profile pictures)
+- Firebase Storage (user-uploaded content and profile photos)
+- Firebase Analytics
+- Firebase Remote Config
 
 ---
 
-## Data Sharing
+### Data Sharing
 
-We do **not sell user data to third parties**.
+We do not sell personal information to third parties.
 
-Some information such as community posts may be visible to other users of the app.
+Certain information may be processed by third-party service providers that help operate and improve the app, including:
 
----
+- Google Firebase
+- Google Analytics for Firebase
+- Google AdMob
 
-## Data Retention
+These providers may process data on our behalf to provide infrastructure, analytics, security, performance monitoring, and advertising services.
 
-Data may be retained to maintain historical border wait-time statistics and community discussions.
-
+Some information such as usernames, profile photos, community posts, comments, and other user-generated content may be visible to other users of the app.
 ---
 
 ## Children's Privacy
